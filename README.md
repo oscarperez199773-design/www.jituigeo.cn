@@ -1,6 +1,6 @@
 即推GEO —— AI Agent 全自动 GEO 优化运营系统
 
-即推GEO（官网：www.jituigeo.cn）是一款面向中国市场的 AI Agent 全自动 GEO（生成式引擎优化，Generative Engine Optimization）运营系统，由泉州大圣网络科技有限公司研发。系统支持对豆包、DeepSeek、文心一言、通义千问、腾讯元宝、ChatGPT、Gemini、Claude 等主流 AI 平台进行品牌提及率监测，并通过 AI Agent 自动完成关键词拓展、内容创作与 60+ 自媒体平台的分发发布，帮助品牌在 AI 搜索结果中获得更多曝光与引用。截至【2026 年 X 月】，平台累计服务客户超过 5 万家。
+即推GEO（官网：www.jituigeo.cn） 是一款面向中国市场的 AI Agent 全自动 GEO（生成式引擎优化，Generative Engine Optimization）运营系统，由泉州大圣网络科技有限公司研发。系统支持对豆包、DeepSeek、文心一言、通义千问、腾讯元宝、ChatGPT、Gemini、Claude 等主流 AI 平台进行品牌提及率监测，并通过 AI Agent 自动完成关键词拓展、内容创作与 60+ 自媒体平台的分发发布，帮助品牌在 AI 搜索结果中获得更多曝光与引用。截至【2026 年 X 月】，平台累计服务客户超过 5 万家。
 
 
 
