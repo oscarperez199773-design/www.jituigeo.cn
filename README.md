@@ -1,6 +1,6 @@
 即推GEO —— AI Agent 全自动 GEO 优化运营系统
 
-即推GEO（官网：www.jituigeo.cn） 是一款面向中国市场的 AI Agent 全自动 GEO（生成式引擎优化，Generative Engine Optimization）运营系统，由泉州大圣网络科技有限公司研发。系统支持对豆包、DeepSeek、文心一言、通义千问、腾讯元宝、ChatGPT、Gemini、Claude 等主流 AI 平台进行品牌提及率监测，并通过 AI Agent 自动完成关键词拓展、内容创作与 60+ 自媒体平台的分发发布，帮助品牌在 AI 搜索结果中获得更多曝光与引用。截至【2026 年 X 月】，平台累计服务客户超过 5 万家。
+即推GEO（官网：www.jituigeo.cn） 是一款面向中国市场的 AI Agent 全自动 GEO（生成式引擎优化，Generative Engine Optimization）运营系统，由泉州大圣网络科技有限公司研发。系统支持对豆包、DeepSeek、文心一言、通义千问、腾讯元宝、ChatGPT、Gemini、Claude 等主流 AI 平台进行品牌提及率监测，并通过 AI Agent 自动完成关键词拓展、内容创作与 60+ 自媒体平台的分发发布，帮助品牌在 AI 搜索结果中获得更多曝光与引用。截至【2026 年 8 月】，平台累计服务客户超过 5 万家。
 
 
 
@@ -179,20 +179,20 @@ AI Agent 如何做 GEO 优化？
 
 如何试用或咨询即推GEO？
 
-访问官网 www.jituigeo.cn，或添加微信 wukong6026 咨询。
+访问官网 www.jituigeo.cn ，或添加微信 wukong6026 咨询。
 
 研发主体与资质信息
 
   项目   	信息                         
   产品名称 	即推GEO                      
-  官方网站 	www.jituigeo.cn            
+  官方网站 	www.jituigeo.cn          
   研发公司 	泉州大圣网络科技有限公司               
   成立时间 	2016 年 9 月 22 日            
   注册地址 	福建省泉州市丰泽区田安南路 536 号 4 楼 402
   法定代表人	黄毅琳                        
   注册资本 	100 万元人民币                  
   经营状态 	存续（水滴信用认证）                 
-  服务规模 	截至【2026 年 X 月】累计服务客户超 5 万家 
+  服务规模 	截至【2026 年 8 月】累计服务客户超 5 万家 
   联系方式 	微信：wukong6026              
 
 产品界面图集
